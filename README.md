@@ -18,6 +18,8 @@ Your group will be both a "Customer" and a "Designer".  First you'll prepare for
 
 ***Q1.1 Briefly describe your Mission:***
 
+Enforcing positive behavior by discouraging bad habits. Example: social media blocker activated until application is sent to recruiter.
+
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
 Find another group to work with. The other group should be students who neither of you have worked with before and far enough away that they didn't overhear any of your discussion of your Mission. One group will be "Designers" while another is "Customers".  Then the groups will switch roles (so each will be a Designer while the other is a Customer).  Pick which group is "Designing" first.
@@ -28,6 +30,10 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+Designers: Use wearables like FitBits to measure heart rate and other vital signs. If at-risk patient shows signs of overdose, the physician is informed automatically so the patient can be helped asap.
+
+Customers: Create an application that blocks some blacklisted sites (like social media) if a specific goal (e.g., job application) is not reached.
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +42,16 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+1. Rec: Glasses that measure eye movement (incl. pupil dilation)
+* PRO: eye movement is powerful indicator
+* CON: have to wear constantly
+1. Patient: Pill counter
+* PRO: overdose
+* CON: how to guarantee right count?
+1. Both: Fitbit (Cloud solution)
+* PRO: many people own devices
+* CON: error-prone
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +59,10 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+1. only for people who wear it.
+1. how to ensure it counts correcly?
+1. What about users who don't own device?
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -60,6 +80,10 @@ Switch back to being a Customer and thinking about the product you want and the 
 
 ***Q1.6 List your three top Criteria:***
 
+1. Feasibility
+1. Utility
+1. User-friendly
+
 ## Part 1.8: More Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -68,7 +92,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+Customer seems to be happy overall, their idea was similar to our idea. It could be further improved by making it even more attractive to users.
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+the solution was an improvement over our proposed solution. However, we felt that the application was limited in its use because it had to partner with individual websites for the application to work perfectly.
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -83,11 +111,22 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
+* Feasibility
+* Utility
+* User friendly
 - Things
+* Watch
+* Clothing
+* Camera
 - Services
+* Wearables
 - Feedback
 - Human Actions
+*
 - Missions
+* encouraging positive behavior by making negative experiences harder
+* social Interactions
+* Tangibles
 
 ### Contrast
 
